@@ -1,0 +1,98 @@
+# AI/ML Internship 🚀
+
+## 👋 Introduction
+
+Hi, I'm **Ayush Sahu**,AI/ML intern.  I am currently building my skills in **Python, Data Analysis, Machine Learning, SQL, and Artificial Intelligence**.
+
+This repository documents my **AI/ML internship journey**, including assignments, learning exercises, experiments, projects, and practical implementations.
+
+---
+
+## 🎯 Internship Goals
+
+Through this internship, I aim to:
+
+- Strengthen my Python and programming fundamentals
+- Develop practical Machine Learning skills
+- Improve my understanding of Statistics and Data Analysis
+- Learn industry-standard AI/ML workflows
+- Build practical AI/ML projects
+- Improve my Git and GitHub workflow
+- Understand Deep Learning fundamentals
+- Explore Generative AI and LLM-based applications
+- Learn how AI/ML models are deployed into real-world applications
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming
+- Python
+- SQL
+
+### Data Science
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
+
+### Machine Learning
+- Scikit-learn
+- Supervised Learning
+- Unsupervised Learning
+- Model Evaluation
+- Feature Engineering
+
+### AI
+- Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
+
+### Development Tools
+- Jupyter Notebook
+- VS Code
+- Git
+- GitHub
+
+---
+
+## 🗺️ Learning Roadmap
+
+```text
+Python & Programming
+        ↓
+Data Analysis & SQL
+        ↓
+Statistics
+        ↓
+Machine Learning
+        ↓
+Feature Engineering & Model Evaluation
+        ↓
+Deep Learning
+        ↓
+Generative AI & LLMs
+        ↓
+AI Applications
+        ↓
+Deployment & MLOps
+```
+
+## 💡 Internship Objective
+
+The objective of this repository is to maintain a structured record of my learning and practical work throughout the internship while developing **industry-ready AI/ML skills**.
+
+I will continuously update this repository as I learn, build, experiment, and improve.
+
+---
+
+## 🔗 Connect
+
+**GitHub:** [ayushkingsahu980703](https://github.com/ayushkingsahu980703)
+
+**LinkedIn:** [Ayush Sahu](https://www.linkedin.com/in/ayush-king-sahu-b37259401)
+
+---
+
+⭐ *Learning by building, experimenting, and improving.*
